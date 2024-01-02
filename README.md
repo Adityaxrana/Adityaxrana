@@ -34,7 +34,7 @@
 
 - 🔭 I’m currently working with **PrepInsta**
 
-- 🌱 I’m currently learning **Data Analaytics **
+- 🌱 I’m currently learning **Data Analaytics**
 
 - 💬 Ask me about **Java, Python, Numpy and NodeJS**
 
