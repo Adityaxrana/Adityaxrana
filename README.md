@@ -45,7 +45,7 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/adityarana0902" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityarana0902" height="30" width="40" /></a>
+<a href="[www.linkedin.com/in/adityarana0902](https://www.linkedin.com/in/adityarana0902/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityarana0902" height="30" width="40" /></a>
 <a href="https://www.instagram.com/adityaa._.rana?igsh=MWcwNGg4YmcxbTlkZA%3D%3D&utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Aditya._.rana" height="30" width="40" /></a>
 </p>
 <br>
